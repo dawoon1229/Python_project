@@ -150,5 +150,5 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-아래는 결과 화면이다.
+<결과 화면>
 <img width="297" alt="Untitled" src="https://github.com/dawoon1229/Python_project/assets/164113758/af17277b-3f40-43aa-bd16-75e888150463">
